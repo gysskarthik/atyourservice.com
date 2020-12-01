@@ -1,2 +1,2 @@
-# atyourservice.io
-http://atyourservice.io/
+# atyourservice.com
+http://atyourservice.com/
