@@ -1,2 +1,2 @@
-# atyourservice.github.io
-http://atyourservice.github.io/
+# atyourservice.io
+http://atyourservice.io/
