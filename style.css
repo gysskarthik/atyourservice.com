@@ -10,13 +10,10 @@ width:80%;
 margin:30px auto;
 display:flex;
 align-items:center;}
-.navbar ul{
+ul{
 flex:1;
   text-align:right;
 }
-.navbar img{
-width:50%;
-height:90px;}
 ul li{
 list-style:none;
 display:inline-block;
