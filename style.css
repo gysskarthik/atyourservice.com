@@ -32,8 +32,8 @@ width:0;
   position:absolute;
   left:50%;
   transform:translateX(-50%);
-  top:-45px;
-  transition:0.5s;
+  top:-35px;
+  transition:0.2s;
 }
 .ul .li a:hover::after{
 width:100%;
