@@ -16,7 +16,7 @@ flex:1;
 }
 ul li{
 list-style:none;
-display:block;
+display:inline-block;
 margin:0 25px;}
 
 ul li a{
