@@ -1,6 +1,7 @@
 *{
 margin:0;
 padding:0;
+   background-color: lightyellow;
 font-family:'Dosis',Sans-serif;}
 .hero{
 width:80%;
@@ -30,9 +31,7 @@ width:100%;
   height:10px;
   background:#f14a60;
   position:absolute;
-  left:50%;
-  transform:translatex(-50%);
-  top:-55px;
+ transform:translatex(-50%);
   transition:0.5s;
 }
 
