@@ -7,6 +7,8 @@ font-family:'Dosis',Sans-serif;
 
 .flex-container {
   display: flex;
+  width:90%;
+  margin:10px;
   flex-direction: row;
   font-size: 30px;
   text-align: center;
