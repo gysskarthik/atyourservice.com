@@ -86,4 +86,13 @@ flex-basis:100%;
   width:200px;
   border-radius: 50%;
 }
+.right-col .one{
+  width:200px;
+  margin-left:10px;
+  background-color:white;
+  border-radius: 50%;
+}
+.right-col .one h3{
+  font-size:20px;
+  }
 
