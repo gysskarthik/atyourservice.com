@@ -82,7 +82,8 @@ display:flex;
 flex-basis:50%;
 }
 .left-col img{
-  width:100%;
+  width:200px;
+  border-radius: 50%;
 }
 .right-col h1{
 margin:20px;
@@ -93,3 +94,4 @@ color:red;
 margin:15px;
   color:blue;
 }
+
