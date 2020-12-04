@@ -22,7 +22,7 @@ font-family:'Dosis',Sans-serif;
 }
 
 .flex-item-right {
-  background-color: dodgerblue;
+  background-color: #f1f2f2;
   padding: 10px;
   flex: 45%;
 }
@@ -75,6 +75,7 @@ li a:hover{
 
 .active {
   width:100%;
+  color:black;
   background-color: #4CAF50;
 }
 
@@ -92,13 +93,23 @@ flex-basis:100%;
   width:200px;
   border-radius: 50%;
 }
+
+.right-col h1{
+  font-size:35px;
+  color:black;
+}
 .one{
-  width:200px;
+ display: flex;
+  width:90%;
+  flex-direction: row;
+  text-align: center;
   margin-left:10px;
-  background-color:green;
-  border-radius: 50%;
 }
 .one h3{
+  border-radius: 50%;
+  background-color: #f1f1f1;
+  padding: 0;color:black;
+  flex: 45%;
   font-size:20px;
   }
 
