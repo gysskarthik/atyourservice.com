@@ -79,20 +79,11 @@ display:flex;
   margin-to:80px;
 }
 .left-col,.right-col{
-flex-basis:50%;
+flex-basis:100%;
 }
 .left-col img{
   margin:50px;
   width:200px;
   border-radius: 50%;
-}
-.right-col h1{
-margin:20px;
-color:red;
-}
-
-.right-col h2{
-margin:15px;
-  color:blue;
 }
 
