@@ -63,8 +63,7 @@ text-decoration:none;
   padding: 14px 16px;
 }
 
-li a:hover:not(.active) {
-width:0;
+li a:hover{
   height:10px;
   background-color:#f14a60;
   position:absolute;
@@ -82,23 +81,24 @@ width:0;
 
 .content{
 display:flex;
-  margin-to:80px;
+  width:100%;
+  margin-top:80px;
 }
 .left-col,.right-col{
 flex-basis:100%;
 }
-.left-col img{
+.img{
   margin:50px;
   width:200px;
   border-radius: 50%;
 }
-.right-col .one{
+.one{
   width:200px;
   margin-left:10px;
-  background-color:white;
+  background-color:green;
   border-radius: 50%;
 }
-.right-col .one h3{
+.one h3{
   font-size:20px;
   }
 
