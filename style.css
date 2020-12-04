@@ -8,6 +8,7 @@ font-family:'Dosis',Sans-serif;
 .flex-container {
   display: flex;
   width:90%;
+  padding:10px;
   margin:10px;
   flex-direction: row;
   font-size: 30px;
@@ -16,14 +17,14 @@ font-family:'Dosis',Sans-serif;
 
 .flex-item-left {
   background-color: #f1f1f1;
-  padding: 10px;
-  flex: 50%;
+  padding: 0;
+  flex: 45%;
 }
 
 .flex-item-right {
   background-color: dodgerblue;
   padding: 10px;
-  flex: 50%;
+  flex: 45%;
 }
 
 /* Responsive layout - makes a one column-layout instead of two-column layout */
