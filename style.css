@@ -31,7 +31,8 @@ font-family:'Dosis',Sans-serif;
     flex-direction: column;
   }
 .one{
-flex-direction:row;}
+flex-direction:row;
+  }
 }
 
 body{
@@ -272,10 +273,10 @@ li a:hover{
  .flex-item-right .one h3{
   border-radius: 50%;
   margin-left:10px;
-height:90px;
+height:120px;
 Width:100px;
   background-color: #f1f1f1;
-  padding: 5px;color:black;
+  color:black;padding:20px;
   flex: 30%;
   font-size:20px;
   }
