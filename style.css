@@ -82,7 +82,7 @@ li a:hover{
   font-size:35px;
   color:black;
 }
-.one{
+.flex-item-right .one{
  display: flex;
   width:90%;
   flex-direction: row;
@@ -90,7 +90,7 @@ li a:hover{
   margin-top:40px;
   margin-left:10px;
 }
-.one h3{
+ .flex-item-right .one h3{
   border-radius: 50%;
   margin-left:10px;
 height:90px;
