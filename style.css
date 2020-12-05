@@ -213,44 +213,6 @@ article {
 
 
 
-
-
-
-
-
-.navbar{
-width:80%;
-margin:10px auto;
-display:flex;
-align-items:center;}
-
-ul{
-flex:1;
-  text-align:right;
-}
-ul li{
-list-style:none;
-display:inline-block;
-margin:0 25px;}
-
-ul li a{
-text-decoration:none;
-  color: #000;
-  text-align: center;
-  padding: 14px 16px;
-}
-
-li a:hover{
-  height:10px;
-  background-color:#f14a60;
-}
-.active {
-  width:100%;
-  color:black;
-  background-color: #4CAF50;
-}
-
-
 .img{
   margin:50px;
   width:200px;
