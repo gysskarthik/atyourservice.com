@@ -36,15 +36,12 @@ font-family:'Dosis',Sans-serif;
 body{
    background-color: lightyellow;
 }
-.hero{
-width:80%;
-  margin:auto;
-}
+
 .navbar{
+width:80%;
 margin:10px auto;
 display:flex;
 align-items:center;}
-
 
 ul{
 flex:1;
@@ -73,21 +70,13 @@ li a:hover{
 }
 
 
-.content{
-display:flex;
-  width:100%;
-  margin-top:80px;
-}
-.left-col,.right-col{
-flex:50%;
-}
 .img{
   margin:50px;
   width:200px;
   border-radius: 50%;
 }
 
-.right-col h1{
+h1{
   font-size:35px;
   color:black;
 }
