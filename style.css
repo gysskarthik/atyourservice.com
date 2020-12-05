@@ -16,7 +16,6 @@ font-family:'Dosis',Sans-serif;
 }
 
 .flex-item-left {
-  
   padding: 0;
   flex: 45%;
 }
@@ -31,6 +30,16 @@ font-family:'Dosis',Sans-serif;
   .flex-container {
     flex-direction: column;
   }
+
+.flex-item-left {
+  padding: 10px;
+  flex: 100%;
+}
+
+.flex-item-right {
+  padding: 10px;
+  flex: 100%;
+}
 .one{
 flex-direction:row;}
 }
