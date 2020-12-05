@@ -17,12 +17,12 @@ font-family:'Dosis',Sans-serif;
 
 .flex-item-left {
   padding: 0;
-  flex: 45%;
+  flex: 50%;
 }
 
 .flex-item-right {
   padding: 10px;
-  flex: 45%;
+  flex: 50%;
 }
 
 /* Responsive layout - makes a one column-layout instead of two-column layout */
@@ -30,16 +30,6 @@ font-family:'Dosis',Sans-serif;
   .flex-container {
     flex-direction: column;
   }
-
-.flex-item-left {
-  padding: 10px;
-  flex: 100%;
-}
-
-.flex-item-right {
-  padding: 10px;
-  flex: 100%;
-}
 .one{
 flex-direction:row;}
 }
