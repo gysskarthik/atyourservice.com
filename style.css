@@ -27,10 +27,12 @@ font-family:'Dosis',Sans-serif;
 }
 
 /* Responsive layout - makes a one column-layout instead of two-column layout */
-@media (max-width: 800px) {
+@media (max-width: 600px) {
   .flex-container {
     flex-direction: column;
   }
+.One{
+flex-direction:row;}
 }
 
 body{
@@ -91,6 +93,8 @@ h1{
 .one h3{
   border-radius: 50%;
   margin-left:10px;
+height:90px;
+Width:100px;
   background-color: #f1f1f1;
   padding: 5px;color:black;
   flex: 30%;
